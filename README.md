@@ -8,6 +8,7 @@ Scratch art for kids on Android. Scratch the black layer with your finger and a 
 
 - [Website](https://mnlmato.github.io/playink/), with a scratch demo you can try in the browser
 - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.playink.paint.kids&referrer=utm_source%3Dgithub.com%26utm_medium%3Dprofile%26utm_campaign%3Dgithub-profile)
+- How the holographic foil works, on Medium: [in English, with the code](https://medium.com/@manuelmato/how-a-holographic-foil-effect-works-in-jetpack-compose-9535d621c055) and [in Spanish, without code](https://medium.com/@manuelmato/c%C3%B3mo-funciona-una-pegatina-hologr%C3%A1fica-en-un-m%C3%B3vil-android-276e2c37768f)
 
 ### Open source
 
@@ -17,4 +18,5 @@ Scratch art for kids on Android. Scratch the black layer with your finger and a 
 ### Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/manuelmatomarino/)
+- [Medium](https://medium.com/@manuelmato)
 - [mnlmato.github.io](https://mnlmato.github.io/)
